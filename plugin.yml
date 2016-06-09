@@ -1,0 +1,7 @@
+main: KillReward\Goldish\Main
+version: 1.0.0
+api: 2.0.0
+name: KillReward
+description: Get yo reward when you kill a player! #goldish_kirby
+author: Goldish_Kirby
+
